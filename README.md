@@ -1,4 +1,11 @@
 # limeshell
 
 A Java-Based Shell For, linux, windows, mac (idk)
-to compile the project, run `compiler` on windows, or `sh compiler.sh`
+## Compiling
+
+### Windows
+
+To Compile the project on Windows, run `compiler`.
+### Linux
+
+To Compile the project on Linux, run `sh compiler.sh`
